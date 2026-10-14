@@ -4,4 +4,4 @@ datasets
 accelerate
 bitsandbytes
 huggingface_hub
-torchao
+torchao>=0.16.0
